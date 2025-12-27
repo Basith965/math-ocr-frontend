@@ -1,1 +1,1 @@
-# math-ocr-frontend
+# Math-OCR-Analyzer
